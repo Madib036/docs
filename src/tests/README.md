@@ -1,4 +1,4 @@
-# Tests
+src/tests/README.md# Tests
 
 This directory contains utilities to support our automated testing efforts.
 
